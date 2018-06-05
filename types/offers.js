@@ -1,0 +1,1 @@
+export const GET_OFFER = "GET_OFFER";
